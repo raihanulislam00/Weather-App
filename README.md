@@ -61,9 +61,7 @@ This app uses the OpenWeatherMap API. To use your own API key:
 
 ---
 
-## 📸 Screenshots
-
-![Weather App Screenshot](./screenshot.png)
+## Demo
 
 ---
 
@@ -80,5 +78,4 @@ This app uses the OpenWeatherMap API. To use your own API key:
 
 ---
 
-## 📄 License
-MIT
+## 📄 [License](https://github.com/raihanulislam00/Weather-App/blob/main/LICENSE)
