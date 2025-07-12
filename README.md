@@ -62,7 +62,7 @@ This app uses the OpenWeatherMap API. To use your own API key:
 ---
 
 ## Demo
-
+[Weather App](https://liveweatherapp.vercel.app/)
 ---
 
 ## 🙏 Credits
